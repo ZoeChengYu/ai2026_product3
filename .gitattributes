@@ -1,0 +1,6 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.ckpt filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4[[:space:]]*.ttf[[:space:]]*.otf[[:space:]]ckpt/scr_210000.pth filter=lfs diff=lfs merge=lfs -text
