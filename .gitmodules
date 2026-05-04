@@ -1,3 +1,4 @@
 [submodule "fontdiffuser-finetune"]
 	path = fontdiffuser-finetune
 	url = https://github.com/ZoeChengYu/fontdiffuser-finetune.git
+	branch=main
